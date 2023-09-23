@@ -1,3 +1,6 @@
+#Prática 01.02 - Compilador
+#Suponha que você precise implementar um compilador. Utilizando uma pilha, verifique se expressões são válidas considerando “(“, “)”, “[“, “]”, “{“ e “}”.
+
 x = input().split() 
 branco = ""
 for i in x:
