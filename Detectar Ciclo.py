@@ -1,3 +1,7 @@
+#Prática 01.01 - Detecta Ciclo
+#Implemente uma função que detecta ciclos em uma lista encadeada.
+#A primeira linha representa quantas linhas você deve ler na sequência. A próxima linha contêm todos os nós da lista com seus respectivos valores. 
+#As demais linhas contêm as relações (encadeamento) entre os nós. Essa entrada representa o primeiro exemplo ilustrado anteriormente.
 
 a = int(input())
 b = [int(x) for x in input().split()]
